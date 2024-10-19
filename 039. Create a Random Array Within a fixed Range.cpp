@@ -1,5 +1,5 @@
 //Create a Random Array With fixed Range in c++ 
-//But the range is not random at all it just generates the same thing again and again
+//But the range is not random at all it just generates the same thing again and again as you run the program
 #include<iostream>
 using namespace std;
 
