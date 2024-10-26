@@ -22,7 +22,7 @@ int main(){
 
   
   //This Will erase from an Index or within a range
-  //v.erase(v.begin()+3);
+  //v.erase(v.begin()+3);//This Will Clear the Element at index 3
   v.erase(v.begin()+3,v.begin()+7);
   
   for(int i=0;i<v.size();i++){
